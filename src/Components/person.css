@@ -1,0 +1,10 @@
+.list-none{
+	list-style: none
+}
+.fist-list-set li{
+	margin-bottom: 10px;
+}
+input.form-control.form-set {
+    border-radius: 0;
+    height: 50px;
+}
